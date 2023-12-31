@@ -1,2 +1,2 @@
-# Cem Alemdar
-[Personal Portfolio](www.cemalemdar.github.io)
+Cem Alemdar's Personal Portfolio
+[See Portfolio Site](https://cemalemdar.github.io)
